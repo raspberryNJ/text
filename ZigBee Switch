@@ -1,0 +1,24 @@
+ZigBee Switch Module 10A No Neutral Wire Required
+
+DTH
+  Integrated ZigBee Switch
+    https://github.com/WooBooung/BooungThings/tree/master/devicetypes/woobooung/integrated-zigbee-switch.src
+    - https://cafe.naver.com/stsmarthome/18851    2020.04.25.
+    - https://cafe.naver.com/stsmarthome/20780    2020.06.14
+    - https://cafe.naver.com/stsmarthome/20858    2020.06.16.
+
+지그비 스위치
+  - GIRIER ZigBee 3.0 Smart Switch Module 10A No Neutral Wire Required  2-Gang
+    https://ae01.alicdn.com/kf/He53d7db26f9d40cfae7277b6b306371f4/GIRIER-Tuya-ZigBee-3-0-10A-DIY-1-2-3-4-Alexa-Google.jpg_50x50.jpg_.webp
+    SmartThings Hub 연결 잘 됨
+
+Data	
+  application: 43
+  endpointId: 01
+  manufacturer: _TZ3000_jl7qyupf
+  model: TS0012
+  onOff: catchall
+  zigbeeNodeType: SLEEPY_END_DEVICE
+Raw Description	
+  01 0104 0100 01 07 0003 0004 0005 0006 E000 E001 0000 02 0019 000A
+
